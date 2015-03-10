@@ -14,10 +14,15 @@ bots/alice2
 bots/currentevents
 bots/jokebot
 bots/wndef
+bots/super
 
 # IntelliJ
 out/
 
+# sample files
+src/Main.java
+src/TaggerDemo.java
+src/TaggerDemo2.java
 
 # Crashlytics plugin (for Android Studio and IntelliJ)
 com_crashlytics_export_strings.xml

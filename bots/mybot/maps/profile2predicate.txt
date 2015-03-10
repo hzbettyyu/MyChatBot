@@ -1,0 +1,35 @@
+age:age
+baby:baby
+birthday:birthday
+birthplace:birthplace
+boyfriend:boyfriend
+brother:brother
+college:college
+daughter:daughter
+father:father
+favorite books:favoritebooks
+favorite movies:favoritemovies
+favorite music:favoritemusic
+favorite sports:favoritesports
+favorite tv shows:favoritetvshows
+first name:firstname
+friend:friend
+gender:gender
+girlfriend:girlfriend
+grandfather:grandfather
+grandmother:grandmother
+high school:highschool
+husband:husband
+languages:languages
+last name:lastname
+likes:likes
+location:location
+middlename:middlename
+mother:mother
+nephew:nephew
+niece:niece
+places:places
+religion:religion
+sister:sister
+wife:wife
+workplaces:workplaces
