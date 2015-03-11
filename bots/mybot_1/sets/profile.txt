@@ -1,0 +1,38 @@
+age
+baby
+birthday
+birthplace
+boyfriend
+brother
+college
+daughter
+father
+favorite books
+favorite movies
+favorite music
+favorite sports
+favorite tv shows
+first name
+friend
+gender
+girlfriend
+grandfather
+grandmother
+high school
+husband
+languages
+last name
+likes
+location
+middlename
+mother
+nephew
+niece
+places
+recent activities
+recent languages
+recent names
+religion
+sister
+wife
+workplaces

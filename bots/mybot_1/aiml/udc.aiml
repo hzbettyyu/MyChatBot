@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- File: udc.aiml -->
+<!-- Author: Jinghui Yu -->
+<!-- created on: 03/10/2015 -->
+<!-- The file serves for unknown pattern and direct to a new topic -->
+<aiml>
+    <category>
+        <pattern>*</pattern>
+        
+    </category>
+
+</aiml>

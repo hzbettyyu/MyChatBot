@@ -29,6 +29,9 @@ mother:mother
 nephew:nephew
 niece:niece
 places:places
+recent activities:recentactivities
+recent languages:recentlanguages
+recent names:recentnames
 religion:religion
 sister:sister
 wife:wife
