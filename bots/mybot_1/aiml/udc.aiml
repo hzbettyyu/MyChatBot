@@ -4,9 +4,30 @@
 <!-- created on: 03/10/2015 -->
 <!-- The file serves for unknown pattern and direct to a new topic -->
 <aiml>
-    <category>
-        <pattern>*</pattern>
-        
+    <category><pattern>*</pattern>
+        <template><think>
+            <set var="formula"><srai>MATHFORMULA <star/></srai></set>
+        </think>
+            <condition var="formula">
+                <li value="NOT A MATH FORMULA"><srai>UDC</srai></li>
+                <li><condition name="jsenabled">
+                    <li value="true"><javascript><get var="formula"/></javascript></li>
+                    <li><sraix service="pannous">WHAT IS <star/></sraix></li>
+                </condition>
+                </li>
+            </condition></template>
     </category>
-
+    <category><pattern>UDC</pattern>
+        <template><random>
+            <li><srai>RANDOM PICKUP LINE</srai></li>
+            <li><srai>INQUIRY AGE</srai></li>
+            <li><srai>INQUIRY GENDER</srai></li>
+            <li><srai>INQUIRY LOCATION</srai></li>
+        </random></template>
+    </category>
+    <category><pattern>RANDOM PICKUP LINE</pattern>
+        <template><random>
+            <li></li>
+        </random></template>
+    </category>
 </aiml>
